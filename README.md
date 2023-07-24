@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 ### Hola 👋
 
 
-
 ### - 🔭 Actualmente estoy trabajando en Movie Challenge
 ### - 🌱 Actualmente estoy aprendiendo react
 ### - 📫 Cómo contactarme: https://www.linkedin.com/in/angelica-rojas-frontend-developer-javascript/
